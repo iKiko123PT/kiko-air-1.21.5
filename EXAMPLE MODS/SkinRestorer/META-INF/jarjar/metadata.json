@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "org.mineskin",
+        "artifact": "java-client"
+      },
+      "version": {
+        "range": "[3.0.1-SNAPSHOT,)",
+        "artifactVersion": "3.0.1-SNAPSHOT"
+      },
+      "path": "META-INF/jarjar/java-client-3.0.1-SNAPSHOT.jar",
+      "isObfuscated": false
+    }
+  ]
+}
